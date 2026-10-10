@@ -1,0 +1,36 @@
+{
+  "architecture": "3-Layer MLP (128-64-32)",
+  "features": [
+    "n_turbines",
+    "turbine_capacity_mw",
+    "hub_height_m",
+    "rotor_diameter_m",
+    "spacing_diameters",
+    "density_per_km2",
+    "grid_aspect"
+  ],
+  "targets": [
+    "net_aep_gwh",
+    "wake_loss_pct",
+    "plf_pct"
+  ],
+  "training_samples": 1440,
+  "validation_samples": 180,
+  "test_samples": 180,
+  "metrics": {
+    "r2_net_aep": 0.9956,
+    "rmse_net_aep_gwh": 2.65,
+    "r2_wake_deficit": 0.983,
+    "mae_wake_deficit_pct": 0.87,
+    "r2_plf": 0.9872,
+    "mae_plf_pct": 0.21,
+    "mean_r2": 0.9886,
+    "speedup_factor": 406.7,
+    "surrogate_latency_ms": 0.0191
+  },
+  "physics_vs_surrogate": {
+    "physics_eval_ms": 7.78,
+    "surrogate_eval_ms": 0.0191,
+    "speedup": "406.7x"
+  }
+}

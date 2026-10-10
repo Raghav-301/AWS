@@ -1,0 +1,19 @@
+{
+  "train_loss": 0.0033,
+  "val_loss": 0.0106,
+  "train_acc": 1.0,
+  "val_acc": 0.997,
+  "oob_score": 0.9977,
+  "feature_importances": {
+    "nn2_dist_m": 0.2811,
+    "density_300m": 0.2697,
+    "mean_nn3_m": 0.178,
+    "nn1_dist_m": 0.1282,
+    "nn3_dist_m": 0.0916,
+    "density_500m": 0.0192,
+    "nn5_dist_m": 0.0147,
+    "density_1000m": 0.0068,
+    "dist_substation_m": 0.0065,
+    "dist_road_m": 0.0042
+  }
+}
