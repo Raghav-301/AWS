@@ -1,0 +1,269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5387577,
+          8.2592255
+        ]
+      },
+      "properties": {
+        "osm_id": 157767226,
+        "osm_type": "way",
+        "name": "Aralvaimozhi",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5770955,
+          8.1794741
+        ]
+      },
+      "properties": {
+        "osm_id": 309120568,
+        "osm_type": "way",
+        "name": "Levinjipuram",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5735248,
+          8.2232172
+        ]
+      },
+      "properties": {
+        "osm_id": 309120572,
+        "osm_type": "way",
+        "name": "Pazhavur",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5450328,
+          8.2437161
+        ]
+      },
+      "properties": {
+        "osm_id": 309120573,
+        "osm_type": "way",
+        "name": "Kannanelloor",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5539893,
+          8.2593368
+        ]
+      },
+      "properties": {
+        "osm_id": 309123860,
+        "osm_type": "way",
+        "name": "Muppandal",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5656556,
+          8.2793225
+        ]
+      },
+      "properties": {
+        "osm_id": 309138399,
+        "osm_type": "way",
+        "name": "ISRO",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4399481,
+          8.1814703
+        ]
+      },
+      "properties": {
+        "osm_id": 309138400,
+        "osm_type": "way",
+        "name": "Meenakshipuram",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000;11000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5842734,
+          8.2537079
+        ]
+      },
+      "properties": {
+        "osm_id": 309138406,
+        "osm_type": "way",
+        "landuse": "industrial",
+        "name": "Perungudi",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4057169,
+          8.190481
+        ]
+      },
+      "properties": {
+        "osm_id": 309138414,
+        "osm_type": "way",
+        "name": "Nagarkoil",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5991399,
+          8.1714055
+        ]
+      },
+      "properties": {
+        "osm_id": 309143405,
+        "osm_type": "way",
+        "name": "Maharajapuram",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5367457,
+          8.1062259
+        ]
+      },
+      "properties": {
+        "osm_id": 618576711,
+        "osm_type": "way",
+        "name": "Kanyakumari",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4865879,
+          8.2499855
+        ]
+      },
+      "properties": {
+        "osm_id": 650912396,
+        "osm_type": "way",
+        "name": "230/110 KV S.R.Pudur Substation",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "230000;110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4339472,
+          8.1095854
+        ]
+      },
+      "properties": {
+        "osm_id": 1201026520,
+        "osm_type": "way",
+        "name": "Thengampudur",
+        "operator": "TANTRANSCO",
+        "power": "substation",
+        "substation": "transmission",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5473044,
+          8.0814514
+        ]
+      },
+      "properties": {
+        "osm_id": 1558262994,
+        "osm_type": "way",
+        "landuse": "industrial",
+        "power": "substation",
+        "substation": "distribution"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "r2_score": 0.7855,
+  "rmse": 1.392,
+  "mae": 0.704,
+  "total_grid_points": 1024,
+  "min_ws_120m": 0.48,
+  "max_ws_120m": 8.71,
+  "mean_ws_120m": 3.89
+}

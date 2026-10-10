@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PawanSthal — State Wind Repowering & Spacing Optimiser</title>
+  
+  <!-- Modern Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+  
+  <!-- App Stylesheet -->
+  <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+
+  <!-- Ambient Glows -->
+  <div class="ambient-glow-1"></div>
+  <div class="ambient-glow-2"></div>
+
+  <!-- Header -->
+  <header>
+    <div class="brand">
+      <div class="logo-badge">
+        <svg fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+        </svg>
+      </div>
+      <div class="brand-text">
+        <h1>PawanSthal • पवनस्थल</h1>
+        <p>State Nodal Agency Decision Engine • MNRE Repowering Policy 2023</p>
+      </div>
+    </div>
+    
+    <div class="nav-badges">
+      <div class="badge-pill">
+        <span>Muppandal Wind Complex, TN</span>
+      </div>
+      <div class="badge-pill status-online">
+        <div class="dot"></div>
+        <span>M3 Wake Model: Online</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <!-- KPI Overview Cards -->
+    <section class="kpi-grid">
+      <div class="kpi-card" style="--card-accent: var(--rose-400);">
+        <div class="kpi-title">
+          <span>Existing Turbines</span>
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><circle cx="8" cy="8" r="7" stroke="currentColor" fill="none"/></svg>
+        </div>
+        <div class="kpi-value" id="kpi-turbines">1,636</div>
+        <div class="kpi-sub"><span class="highlight" id="kpi-eligible">1,629</span> (<span id="kpi-eligible-pct">99.6%</span>) Sub-2MW Eligible</div>
+      </div>
+
+      <div class="kpi-card" style="--card-accent: var(--cyan-400);">
+        <div class="kpi-title">
+          <span>Capacity Multiplier</span>
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M8 2l6 10H2L8 2z"/></svg>
+        </div>
+        <div class="kpi-value" id="kpi-multiplier">5.34×</div>
+        <div class="kpi-sub">MNRE 1.5× Policy Test: <span class="highlight">100% PASS</span></div>
+      </div>
+
+      <div class="kpi-card" style="--card-accent: var(--emerald-400);">
+        <div class="kpi-title">
+          <span>Annual Energy Gain</span>
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><path d="M8 1v14M1 8h14"/></svg>
+        </div>
+        <div class="kpi-value" id="kpi-aep">+949.4 <span style="font-size: 1rem; color: var(--text-muted);">GWh/yr</span></div>
+        <div class="kpi-sub">Zero additional land acquisition required</div>
+      </div>
+
+      <div class="kpi-card" style="--card-accent: var(--indigo-400);">
+        <div class="kpi-title">
+          <span>Clean Impact</span>
+          <svg width="16" height="16" fill="currentColor" viewBox="0 0 16 16"><circle cx="8" cy="8" r="5"/></svg>
+        </div>
+        <div class="kpi-value" id="kpi-co2">679,756 <span style="font-size: 0.95rem; color: var(--text-muted);">t CO₂</span></div>
+        <div class="kpi-sub">Powers <span class="highlight" id="kpi-homes">791,150</span> Indian Households</div>
+      </div>
+    </section>
+
+    <!-- Workspace Grid -->
+    <div class="workspace-grid">
+      <!-- Interactive Map Panel -->
+      <section class="map-panel">
+        <div class="map-header">
+          <h2>
+            <svg width="18" height="18" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7"></path>
+            </svg>
+            Wind Resource & Layout Map
+          </h2>
+          
+          <div class="map-controls-bar">
+            <button class="control-btn active" id="btn-toggle-existing">
+              <span style="color: #ef4444;">●</span> Old Turbines (1,636)
+            </button>
+            <button class="control-btn active" id="btn-toggle-repowered">
+              <span style="color: #10b981;">●</span> Repowered Layout
+            </button>
+            <button class="control-btn active" id="btn-toggle-wind">
+              <span style="color: #22d3ee;">≋</span> 120m Wind Heatmap
+            </button>
+            <button class="control-btn" id="btn-toggle-subs">
+              <span style="color: #fbbf24;">⚡</span> Substations
+            </button>
+          </div>
+        </div>
+
+        <div id="map"></div>
+
+        <!-- Legend Overlay -->
+        <div class="map-legend">
+          <div class="legend-title">Map Layers & Classes</div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #ef4444;"></div>
+            <span>Old Sub-MW Turbine (< 1 MW, dense < 250m)</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #f59e0b;"></div>
+            <span>Mid-Class Turbine (1–2 MW)</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #10b981; box-shadow: 0 0 8px #10b981;"></div>
+            <span>Proposed Modern Turbine (3.0 MW, 120m Hub)</span>
+          </div>
+          <div class="legend-item">
+            <div class="legend-dot" style="background: #fbbf24; border-radius: 2px;"></div>
+            <span>TANGEDCO Grid Substation (Evacuation)</span>
+          </div>
+        </div>
+      </section>
+
+      <!-- Right Side Panel -->
+      <aside class="side-panel">
+        <!-- Navigation Tabs -->
+        <div class="tab-nav">
+          <button class="tab-btn active" id="tab-btn-sim" onclick="switchTab('sim')">What-If Simulator</button>
+          <button class="tab-btn" id="tab-btn-rank" onclick="switchTab('rank')">SNA Priority Ranking</button>
+        </div>
+
+        <!-- Tab 1: What-If Simulator Panel -->
+        <div id="tab-sim-content">
+          <div class="panel-card">
+            <div class="panel-card-title">
+              <span>Layout Parameters</span>
+              <span class="badge-pill" style="font-size: 0.7rem; color: var(--emerald-400);">M3 Physics Engine</span>
+            </div>
+
+            <div class="slider-group">
+              <div class="slider-header">
+                <span class="label">Target Hub Height</span>
+                <span class="val" id="val-hub">120 m</span>
+              </div>
+              <input type="range" id="slider-hub" min="100" max="150" step="10" value="120">
+            </div>
+
+            <div class="slider-group">
+              <div class="slider-header">
+                <span class="label">Turbine Rating Class</span>
+                <span class="val" id="val-cap">3.0 MW</span>
+              </div>
+              <input type="range" id="slider-cap" min="2.0" max="3.6" step="0.2" value="3.0">
+            </div>
+
+            <div class="slider-group">
+              <div class="slider-header">
+                <span class="label">Downwind Spacing (Rotor Diameters)</span>
+                <span class="val" id="val-spacing">5.5 D</span>
+              </div>
+              <input type="range" id="slider-spacing" min="4.0" max="8.0" step="0.5" value="5.5">
+            </div>
+
+            <!-- Real-Time Physics Output Cards -->
+            <div class="sim-output-grid">
+              <div class="sim-stat">
+                <div class="sim-stat-lbl">Net Energy Yield</div>
+                <div class="sim-stat-val" id="sim-net-aep">144.2 <span style="font-size: 0.8rem;">GWh</span></div>
+              </div>
+              <div class="sim-stat">
+                <div class="sim-stat-lbl">Wake Deficit Loss</div>
+                <div class="sim-stat-val" style="color: var(--cyan-400);" id="sim-wake">17.8%</div>
+              </div>
+              <div class="sim-stat">
+                <div class="sim-stat-lbl">Plant Load Factor</div>
+                <div class="sim-stat-val" style="color: var(--emerald-400);" id="sim-plf">28.4%</div>
+              </div>
+              <div class="sim-stat">
+                <div class="sim-stat-lbl">Est. Payback Period</div>
+                <div class="sim-stat-val" style="color: var(--amber-400);" id="sim-payback">23.5 <span style="font-size: 0.8rem;">yrs</span></div>
+              </div>
+            </div>
+
+            <!-- MNRE 1.5x Badge -->
+            <div class="policy-badge-container" id="sim-policy-badge">
+              <div>
+                <div class="policy-badge-text">✓ MNRE 2023 Policy Compliant</div>
+                <div style="font-size: 0.68rem; color: var(--text-dim);" id="sim-multiplier-text">Generation: 6.05× baseline (Req: ≥ 1.5×)</div>
+              </div>
+              <div style="font-size: 1.1rem; font-weight: 700; color: var(--emerald-400);">PASS</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Tab 2: SNA Priority Ranking -->
+        <div id="tab-rank-content" style="display: none;">
+          <div class="panel-card">
+            <div class="panel-card-title">
+              <span>Repowering Priority Score</span>
+              <span style="font-size: 0.72rem; color: var(--text-muted);">Ranked for TEDA / NIWE</span>
+            </div>
+
+            <div class="cluster-list" id="cluster-list-container">
+              <!-- Dynamically populated from /api/clusters -->
+            </div>
+          </div>
+        </div>
+
+      </aside>
+    </div>
+  </main>
+
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+  
+  <!-- App JS -->
+  <script src="/static/js/app.js"></script>
+</body>
+</html>

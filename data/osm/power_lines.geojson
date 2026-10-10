@@ -1,0 +1,735 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4936952,
+          8.1502301
+        ]
+      },
+      "properties": {
+        "osm_id": 253362784,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5393508,
+          8.1099826
+        ]
+      },
+      "properties": {
+        "osm_id": 253366071,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5398181,
+          8.1100606
+        ]
+      },
+      "properties": {
+        "osm_id": 253366073,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.541141,
+          8.1099841
+        ]
+      },
+      "properties": {
+        "osm_id": 253366075,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5389204,
+          8.1098468
+        ]
+      },
+      "properties": {
+        "osm_id": 253366076,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5394943,
+          8.1098588
+        ]
+      },
+      "properties": {
+        "osm_id": 253366077,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5391745,
+          8.1098512
+        ]
+      },
+      "properties": {
+        "osm_id": 253366078,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5386749,
+          8.1102691
+        ]
+      },
+      "properties": {
+        "osm_id": 253367701,
+        "osm_type": "way",
+        "power": "line"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5691879,
+          8.2238196
+        ]
+      },
+      "properties": {
+        "osm_id": 309120569,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5262981,
+          8.2452421
+        ]
+      },
+      "properties": {
+        "osm_id": 309120575,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.53571,
+          8.2580315
+        ]
+      },
+      "properties": {
+        "osm_id": 309123862,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4864014,
+          8.2505609
+        ]
+      },
+      "properties": {
+        "osm_id": 309123863,
+        "osm_type": "way",
+        "cables": "3",
+        "name": "230KV Arumuganeri & Sankaneri",
+        "power": "line",
+        "voltage": "220000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5491662,
+          8.2521202
+        ]
+      },
+      "properties": {
+        "osm_id": 309123864,
+        "osm_type": "way",
+        "cables": "6",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5681378,
+          8.2023048
+        ]
+      },
+      "properties": {
+        "osm_id": 309123866,
+        "osm_type": "way",
+        "cables": "6",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5383262,
+          8.2619979
+        ]
+      },
+      "properties": {
+        "osm_id": 309123867,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5541248,
+          8.2620602
+        ]
+      },
+      "properties": {
+        "osm_id": 309123868,
+        "osm_type": "way",
+        "cables": "6",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5308799,
+          8.2789373
+        ]
+      },
+      "properties": {
+        "osm_id": 309123870,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4542723,
+          8.2057434
+        ]
+      },
+      "properties": {
+        "osm_id": 309138388,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6012813,
+          8.2305816
+        ]
+      },
+      "properties": {
+        "osm_id": 309138392,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5651613,
+          8.2795502
+        ]
+      },
+      "properties": {
+        "osm_id": 309138395,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5978951,
+          8.3549575
+        ]
+      },
+      "properties": {
+        "osm_id": 309138398,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3804543,
+          8.2120048
+        ]
+      },
+      "properties": {
+        "osm_id": 309138410,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4409701,
+          8.2244454
+        ]
+      },
+      "properties": {
+        "osm_id": 309138411,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4276047,
+          8.2055715
+        ]
+      },
+      "properties": {
+        "osm_id": 309138413,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5985065,
+          8.2691192
+        ]
+      },
+      "properties": {
+        "osm_id": 309138422,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5912199,
+          8.1707173
+        ]
+      },
+      "properties": {
+        "osm_id": 309143406,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5527678,
+          8.2420777
+        ]
+      },
+      "properties": {
+        "osm_id": 309143413,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5580767,
+          8.1446998
+        ]
+      },
+      "properties": {
+        "osm_id": 618576704,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5345545,
+          8.1075461
+        ]
+      },
+      "properties": {
+        "osm_id": 618576708,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6565384,
+          8.5128322
+        ]
+      },
+      "properties": {
+        "osm_id": 650912397,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "name": "230KV Arumuganeri & Sankaneri",
+        "power": "line",
+        "voltage": "220000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.486785,
+          8.2506233
+        ]
+      },
+      "properties": {
+        "osm_id": 650912398,
+        "osm_type": "way",
+        "cables": "3",
+        "name": "230KV Arumuganeri & Sankaneri",
+        "power": "line",
+        "voltage": "220000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5364622,
+          8.105741
+        ]
+      },
+      "properties": {
+        "osm_id": 680916223,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5364424,
+          8.1057911
+        ]
+      },
+      "properties": {
+        "osm_id": 680916224,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4480047,
+          8.1864806
+        ]
+      },
+      "properties": {
+        "osm_id": 680916225,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4400962,
+          8.1817527
+        ]
+      },
+      "properties": {
+        "osm_id": 680916226,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4401398,
+          8.1817567
+        ]
+      },
+      "properties": {
+        "osm_id": 680916227,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4680965,
+          8.23477
+        ]
+      },
+      "properties": {
+        "osm_id": 680916228,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4056129,
+          8.1909214
+        ]
+      },
+      "properties": {
+        "osm_id": 680916229,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4056556,
+          8.1909214
+        ]
+      },
+      "properties": {
+        "osm_id": 680916232,
+        "osm_type": "way",
+        "cables": "3",
+        "power": "line",
+        "voltage": "110000",
+        "wires": "single"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3289343,
+          8.2235916
+        ]
+      },
+      "properties": {
+        "osm_id": 690505443,
+        "osm_type": "way",
+        "cables": "6",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3337792,
+          8.2459789
+        ]
+      },
+      "properties": {
+        "osm_id": 779538274,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4469675,
+          8.1375376
+        ]
+      },
+      "properties": {
+        "osm_id": 1201029382,
+        "osm_type": "way",
+        "cables": "6",
+        "circuits": "2",
+        "power": "line",
+        "voltage": "110000"
+      }
+    }
+  ]
+}

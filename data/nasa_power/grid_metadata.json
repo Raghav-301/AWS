@@ -1,0 +1,74 @@
+{
+  "bbox": {
+    "name": "Muppandal Wind Farm, Tamil Nadu",
+    "south": 8.08,
+    "north": 8.3,
+    "west": 77.34,
+    "east": 77.6,
+    "center_lat": 8.19,
+    "center_lon": 77.47
+  },
+  "period": "20230101-20231231",
+  "parameters": [
+    "WS50M",
+    "WD50M",
+    "WS2M",
+    "T2M"
+  ],
+  "points": [
+    {
+      "index": 0,
+      "lat": 8.1167,
+      "lon": 77.3833,
+      "status": "ok"
+    },
+    {
+      "index": 1,
+      "lat": 8.1167,
+      "lon": 77.47,
+      "status": "ok"
+    },
+    {
+      "index": 2,
+      "lat": 8.1167,
+      "lon": 77.5567,
+      "status": "ok"
+    },
+    {
+      "index": 3,
+      "lat": 8.19,
+      "lon": 77.3833,
+      "status": "ok"
+    },
+    {
+      "index": 4,
+      "lat": 8.19,
+      "lon": 77.47,
+      "status": "ok"
+    },
+    {
+      "index": 5,
+      "lat": 8.19,
+      "lon": 77.5567,
+      "status": "ok"
+    },
+    {
+      "index": 6,
+      "lat": 8.2633,
+      "lon": 77.3833,
+      "status": "ok"
+    },
+    {
+      "index": 7,
+      "lat": 8.2633,
+      "lon": 77.47,
+      "status": "ok"
+    },
+    {
+      "index": 8,
+      "lat": 8.2633,
+      "lon": 77.5567,
+      "status": "ok"
+    }
+  ]
+}

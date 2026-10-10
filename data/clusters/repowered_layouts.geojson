@@ -1,0 +1,6450 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "description": "Optimised repowered modern turbine layouts across Muppandal zones",
+    "total_proposed_turbines": 322,
+    "model": "3.0 MW Class, 120m hub, 120m rotor, 5-7D downwind spacing"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5765505,
+          8.1482083
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5825354,
+          8.1482083
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5945054,
+          8.1482083
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573558,
+          8.1520059
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5855279,
+          8.1520059
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5915129,
+          8.1520059
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5466257,
+          8.1558035
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5585956,
+          8.1558035
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5705655,
+          8.1558035
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5765505,
+          8.1558035
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5885204,
+          8.1558035
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5436333,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5556032,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5675731,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573558,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5855279,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5974978,
+          8.1596011
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5466257,
+          8.1633987
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5526107,
+          8.1633987
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5645806,
+          8.1633987
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5765505,
+          8.1633987
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5885204,
+          8.1633987
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5436333,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5496182,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5615881,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573558,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5855279,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5915129,
+          8.1671964
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5406408,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5526107,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5645806,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5765505,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5825354,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5945054,
+          8.170994
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5496182,
+          8.1747916
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5615881,
+          8.1747916
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_36",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5675731,
+          8.1747916
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_37",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.579543,
+          8.1747916
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_38",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5915129,
+          8.1747916
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_39",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5466257,
+          8.1785892
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_40",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5585956,
+          8.1785892
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_41",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5645806,
+          8.1785892
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_42",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5765505,
+          8.1785892
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_43",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5885204,
+          8.1785892
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_44",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5436333,
+          8.1823868
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_45",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5496182,
+          8.1823868
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_46",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5615881,
+          8.1823868
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_47",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.573558,
+          8.1823868
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_48",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5855279,
+          8.1823868
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_49",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5526107,
+          8.1861844
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_50",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5585956,
+          8.1861844
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_51",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5705655,
+          8.1861844
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_52",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5825354,
+          8.1861844
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_53",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5496182,
+          8.189982
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_54",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5556032,
+          8.189982
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_55",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5675731,
+          8.189982
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_56",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5526107,
+          8.1937796
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_57",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5645806,
+          8.1937796
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M3",
+        "zone_name": "Pazhavoor Valley West",
+        "turbine_id": "Zone-M3_REP_58",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5910231,
+          8.1795242
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5970081,
+          8.1795242
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820457,
+          8.1833218
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5880307,
+          8.1833218
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6000006,
+          8.1833218
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730683,
+          8.1871194
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.1871194
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.1871194
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5970081,
+          8.1871194
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5640909,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5700758,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5760608,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5880307,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940156,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6000006,
+          8.190917
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5610984,
+          8.1947146
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730683,
+          8.1947146
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.1947146
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.1947146
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5970081,
+          8.1947146
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5640909,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5700758,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5760608,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5880307,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940156,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6000006,
+          8.1985123
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5610984,
+          8.2023099
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730683,
+          8.2023099
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.2023099
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.2023099
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5910231,
+          8.2023099
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5640909,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5700758,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5760608,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820457,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940156,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_36",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6000006,
+          8.2061075
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_37",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5670833,
+          8.2099051
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_38",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.2099051
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_39",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.2099051
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_40",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5910231,
+          8.2099051
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_41",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5970081,
+          8.2099051
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_42",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5760608,
+          8.2137027
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_43",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820457,
+          8.2137027
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_44",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5880307,
+          8.2137027
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_45",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940156,
+          8.2137027
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_46",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5730683,
+          8.2175003
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_47",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.2175003
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_48",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.2175003
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_49",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5910231,
+          8.2175003
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_50",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5760608,
+          8.2212979
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_51",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820457,
+          8.2212979
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_52",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5880307,
+          8.2212979
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_53",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5940156,
+          8.2212979
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_54",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5790532,
+          8.2250955
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_55",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5850382,
+          8.2250955
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_56",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5910231,
+          8.2250955
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M1",
+        "zone_name": "Aralvaimozhi Pass Central",
+        "turbine_id": "Zone-M1_REP_57",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.2026029
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.2026029
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5524818,
+          8.2064005
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5584668,
+          8.2064005
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5644517,
+          8.2064005
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494893,
+          8.2101981
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.2101981
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.2101981
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5674442,
+          8.2101981
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5464969,
+          8.2139957
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5524818,
+          8.2139957
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5584668,
+          8.2139957
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5644517,
+          8.2139957
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5704367,
+          8.2139957
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494893,
+          8.2177933
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.2177933
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.2177933
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5674442,
+          8.2177933
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5734291,
+          8.2177933
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5464969,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5524818,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5584668,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5644517,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5704367,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5764216,
+          8.221591
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5435044,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494893,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5674442,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5734291,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5794141,
+          8.2253886
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5464969,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5524818,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5584668,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5644517,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_36",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5704367,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_37",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5764216,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_38",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5824066,
+          8.2291862
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_39",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5435044,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_40",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494893,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_41",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_42",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_43",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5674442,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_44",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5734291,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_45",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5794141,
+          8.2329838
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_46",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5464969,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_47",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5524818,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_48",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5584668,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_49",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5644517,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_50",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5704367,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_51",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5764216,
+          8.2367814
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_52",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5435044,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_53",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5494893,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_54",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5554743,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_55",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5614592,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_56",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5674442,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_57",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5734291,
+          8.240579
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M5",
+        "zone_name": "Chettikulam Wind Belt",
+        "turbine_id": "Zone-M5_REP_58",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5356055,
+          8.2367775
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5415904,
+          8.2367775
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5475754,
+          8.2367775
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5266281,
+          8.2405751
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.532613,
+          8.2405751
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.538598,
+          8.2405751
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5445829,
+          8.2405751
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5505679,
+          8.2405751
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5236356,
+          8.2443727
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5296205,
+          8.2443727
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5356055,
+          8.2443727
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5415904,
+          8.2443727
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5475754,
+          8.2443727
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5266281,
+          8.2481703
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.532613,
+          8.2481703
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.538598,
+          8.2481703
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5445829,
+          8.2481703
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5505679,
+          8.2481703
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5116657,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5236356,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5296205,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5356055,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5415904,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5475754,
+          8.2519679
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5146582,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5206431,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5266281,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.532613,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.538598,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5445829,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5505679,
+          8.2557656
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5116657,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5176506,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5236356,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5296205,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5356055,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_36",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5415904,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_37",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5475754,
+          8.2595632
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_38",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5146582,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_39",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5206431,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_40",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5266281,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_41",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.532613,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_42",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.538598,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_43",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5445829,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_44",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5505679,
+          8.2633608
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_45",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5116657,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_46",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5176506,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_47",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5236356,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_48",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5296205,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_49",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5356055,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_50",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5415904,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_51",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5475754,
+          8.2671584
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M6",
+        "zone_name": "Panagudi West Corridor",
+        "turbine_id": "Zone-M6_REP_52",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5892426,
+          8.2747061
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5952275,
+          8.2747061
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5922351,
+          8.2785037
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59822,
+          8.2785037
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5892426,
+          8.2823013
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5952275,
+          8.2823013
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5922351,
+          8.2860989
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59822,
+          8.2860989
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5892426,
+          8.2898965
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5952275,
+          8.2898965
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5922351,
+          8.2936942
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.59822,
+          8.2936942
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5892426,
+          8.2974918
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5952275,
+          8.2974918
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-C2",
+        "zone_name": "Muppandal North-East Corridor (Cluster 2)",
+        "turbine_id": "Zone-C2_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5513581,
+          8.242673
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557343,
+          8.242673
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563328,
+          8.242673
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693129,
+          8.242673
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5543506,
+          8.2464706
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5603355,
+          8.2464706
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5663205,
+          8.2464706
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5723054,
+          8.2464706
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5513581,
+          8.2502682
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557343,
+          8.2502682
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563328,
+          8.2502682
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693129,
+          8.2502682
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5543506,
+          8.2540658
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5603355,
+          8.2540658
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5663205,
+          8.2540658
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5723054,
+          8.2540658
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5513581,
+          8.2578634
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557343,
+          8.2578634
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563328,
+          8.2578634
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693129,
+          8.2578634
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5543506,
+          8.2616611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5603355,
+          8.2616611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5663205,
+          8.2616611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5723054,
+          8.2616611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5513581,
+          8.2654587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557343,
+          8.2654587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563328,
+          8.2654587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693129,
+          8.2654587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5543506,
+          8.2692563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5603355,
+          8.2692563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5663205,
+          8.2692563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5723054,
+          8.2692563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557343,
+          8.2730539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.563328,
+          8.2730539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5693129,
+          8.2730539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M2",
+        "zone_name": "Muppandal South Ridge",
+        "turbine_id": "Zone-M2_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2291635
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_01",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858923,
+          8.2291635
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_02",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2291635
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_03",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769149,
+          8.2329611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_04",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.2329611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_05",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5888848,
+          8.2329611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_06",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5948697,
+          8.2329611
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_07",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739224,
+          8.2367587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_08",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2367587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_09",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2367587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_10",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5978622,
+          8.2367587
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_11",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769149,
+          8.2405563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_12",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.2405563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_13",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5888848,
+          8.2405563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_14",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5948697,
+          8.2405563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_15",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6008547,
+          8.2405563
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_16",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739224,
+          8.2443539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_17",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2443539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_18",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858923,
+          8.2443539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_19",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2443539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_20",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5978622,
+          8.2443539
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_21",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769149,
+          8.2481516
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_22",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.2481516
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_23",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5888848,
+          8.2481516
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_24",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6008547,
+          8.2481516
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_25",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739224,
+          8.2519492
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_26",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2519492
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_27",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858923,
+          8.2519492
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_28",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2519492
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_29",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5978622,
+          8.2519492
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_30",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769149,
+          8.2557468
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_31",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.2557468
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_32",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5888848,
+          8.2557468
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_33",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5948697,
+          8.2557468
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_34",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6008547,
+          8.2557468
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_35",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739224,
+          8.2595444
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_36",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2595444
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_37",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858923,
+          8.2595444
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_38",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2595444
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_39",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5978622,
+          8.2595444
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_40",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769149,
+          8.263342
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_41",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.263342
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_42",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5888848,
+          8.263342
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_43",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5948697,
+          8.263342
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_44",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5799073,
+          8.2671396
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_45",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5858923,
+          8.2671396
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_46",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5918772,
+          8.2671396
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_47",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5828998,
+          8.2709372
+        ]
+      },
+      "properties": {
+        "zone_id": "Zone-M4",
+        "zone_name": "Kavalkinaru Junction",
+        "turbine_id": "Zone-M4_REP_48",
+        "turbine_model": "Suzlon S120 / 3.0 MW Class",
+        "capacity_kw": 3000,
+        "hub_height_m": 120,
+        "rotor_diameter_m": 120,
+        "status": "Proposed Repowering"
+      }
+    }
+  ]
+}

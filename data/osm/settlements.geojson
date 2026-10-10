@@ -1,0 +1,2410 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4400398,
+          8.1699676
+        ]
+      },
+      "properties": {
+        "osm_id": 247924336,
+        "osm_type": "node",
+        "name": "Edalakudy Junction",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4659904,
+          8.1561337
+        ]
+      },
+      "properties": {
+        "osm_id": 353035635,
+        "osm_type": "node",
+        "admin_level": "9",
+        "ele": "19",
+        "is_in:iso_3166_2": "IN-TN",
+        "name": "Suchindram",
+        "name:ml": "\u0d36\u0d41\u0d1a\u0d40\u0d28\u0d4d\u0d26\u0d4d\u0d30\u0d02",
+        "name:ta": "\u0b9a\u0bc1\u0b9a\u0bc0\u0ba8\u0bcd\u0ba4\u0bbf\u0bb0\u0bae\u0bcd",
+        "place": "town",
+        "population": "12000",
+        "postal_code": "629704",
+        "version": "2014-11-24",
+        "wikidata": "Q2548004",
+        "wikipedia": "en:Suchindram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5748509,
+          8.1588619
+        ]
+      },
+      "properties": {
+        "osm_id": 706398878,
+        "osm_type": "node",
+        "name": "Vishwanathapuram",
+        "name:ml": "\u0d35\u0d3f\u0d36\u0d4d\u0d35\u0d28\u0d3e\u0d25\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.350582,
+          8.2231058
+        ]
+      },
+      "properties": {
+        "osm_id": 979109242,
+        "osm_type": "node",
+        "name": "Villukuri",
+        "name:ml": "\u0d35\u0d3f\u0d32\u0d4d\u0d32\u0d41\u0d15\u0d4d\u0d15\u0d41\u0d31\u0d3f",
+        "name:ta": "\u0bb5\u0bbf\u0bb2\u0bcd\u0bb2\u0bc1\u0b95\u0bcd\u0b95\u0bc1\u0bb1\u0bbf",
+        "place": "village",
+        "wikidata": "Q2540997",
+        "wikipedia": "en:Villukuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3633935,
+          8.1305413
+        ]
+      },
+      "properties": {
+        "osm_id": 979109385,
+        "osm_type": "node",
+        "name": "Rajakkamangalam",
+        "name:ml": "\u0d30\u0d3e\u0d1c\u0d3e\u0d15\u0d4d\u0d15\u0d2e\u0d02\u0d17\u0d32\u0d02",
+        "name:ta": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0b99\u0bcd\u0b95\u0bb2\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q7285666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.579534,
+          8.2773166
+        ]
+      },
+      "properties": {
+        "osm_id": 979246138,
+        "osm_type": "node",
+        "name": "Kavalkinaru",
+        "name:ml": "\u0d15\u0d3e\u0d35\u0d7d\u0d15\u0d3f\u0d23\u0d31\u0d4d",
+        "name:ta": "\u0b95\u0bbe\u0bb5\u0bb2\u0bcd\u0b95\u0bbf\u0ba3\u0bb1\u0bc1",
+        "place": "village",
+        "wikidata": "Q6379062",
+        "wikipedia": "en:Kavalkinaru"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5577006,
+          8.1189857
+        ]
+      },
+      "properties": {
+        "osm_id": 987491488,
+        "osm_type": "node",
+        "name": "Arogyapuram",
+        "name:ml": "\u0d06\u0d30\u0d4b\u0d17\u0d4d\u0d2f\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b86\u0bb0\u0bcb\u0b95\u0bcd\u0b95\u0bbf\u0baf\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4315398,
+          8.1838477
+        ]
+      },
+      "properties": {
+        "osm_id": 1115478403,
+        "osm_type": "node",
+        "name": "Tower Junction",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4456831,
+          8.2638498
+        ]
+      },
+      "properties": {
+        "osm_id": 1207788162,
+        "osm_type": "node",
+        "alt_name": "Bhoothapandi",
+        "capital": "8",
+        "name": "Bhutapandi",
+        "name:ml": "\u0d2d\u0d42\u0d24\u0d2a\u0d4d\u0d2a\u0d3e\u0d23\u0d4d\u0d1f\u0d3f",
+        "name:ta": "\u0baa\u0bc2\u0ba4\u0baa\u0bcd\u0baa\u0bbe\u0ba3\u0bcd\u0b9f\u0bbf",
+        "place": "village",
+        "postal_code": "629852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4409057,
+          8.2728668
+        ]
+      },
+      "properties": {
+        "osm_id": 1207788173,
+        "osm_type": "node",
+        "name": "Thittuvilai",
+        "name:ml": "\u0d24\u0d3f\u0d1f\u0d4d\u0d1f\u0d41\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0ba4\u0bbf\u0b9f\u0bcd\u0b9f\u0bc1\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5284592,
+          8.0818035
+        ]
+      },
+      "properties": {
+        "osm_id": 2152043271,
+        "osm_type": "node",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4316997,
+          8.1748296
+        ]
+      },
+      "properties": {
+        "osm_id": 2592424342,
+        "osm_type": "node",
+        "name": "Chettikulam Junction",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4339638,
+          8.0992373
+        ]
+      },
+      "properties": {
+        "osm_id": 2592708042,
+        "osm_type": "node",
+        "name": "Pallam",
+        "name:ml": "\u0d2a\u0d33\u0d4d\u0d33\u0d02",
+        "name:ta": "\u0baa\u0bb3\u0bcd\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4459528,
+          8.16683
+        ]
+      },
+      "properties": {
+        "osm_id": 2592860874,
+        "osm_type": "node",
+        "name": "Annai Palam Junction",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5437917,
+          8.108045
+        ]
+      },
+      "properties": {
+        "osm_id": 2592980066,
+        "osm_type": "node",
+        "name": "Panchalingapuram",
+        "name:ml": "\u0d2a\u0d1e\u0d4d\u0d1a\u0d32\u0d3f\u0d02\u0d17\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0baa\u0b9e\u0bcd\u0b9a\u0bb2\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4915655,
+          8.1163108
+        ]
+      },
+      "properties": {
+        "osm_id": 2593130014,
+        "osm_type": "node",
+        "name": "Swamithope",
+        "name:ml": "\u0d38\u0d4d\u0d35\u0d3e\u0d2e\u0d3f\u0d24\u0d4d\u0d24\u0d4b\u0d2a\u0d4d\u0d2a\u0d4d",
+        "name:ta": "\u0b9a\u0bc1\u0bb5\u0bbe\u0bae\u0bbf \u0ba4\u0bcb\u0baa\u0bcd\u0baa\u0bc1",
+        "place": "village",
+        "wikidata": "Q7653307",
+        "wikipedia": "en:Swamithope"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5246497,
+          8.1182101
+        ]
+      },
+      "properties": {
+        "osm_id": 2593132676,
+        "osm_type": "node",
+        "name": "Kottaram",
+        "name:ml": "\u0d15\u0d4a\u0d1f\u0d4d\u0d1f\u0d3e\u0d30\u0d02",
+        "name:ta": "\u0b95\u0bc6\u0bbe\u0b9f\u0bcd\u0b9f\u0bbe\u0bb0\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q2243887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5410649,
+          8.1096549
+        ]
+      },
+      "properties": {
+        "osm_id": 2594972328,
+        "osm_type": "node",
+        "name": "Mahadanapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5527932,
+          8.1084387
+        ]
+      },
+      "properties": {
+        "osm_id": 2595444874,
+        "osm_type": "node",
+        "name": "Kalvilai",
+        "name:ml": "\u0d15\u0d7d\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b95\u0bb2\u0bcd\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5552544,
+          8.1115312
+        ]
+      },
+      "properties": {
+        "osm_id": 2595444876,
+        "osm_type": "node",
+        "name": "Leepuram",
+        "name:ml": "\u0d32\u0d40\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb2\u0bc0\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5540143,
+          8.1014858
+        ]
+      },
+      "properties": {
+        "osm_id": 2595444880,
+        "osm_type": "node",
+        "name": "Vijayanarayanapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5585975,
+          8.1335818
+        ]
+      },
+      "properties": {
+        "osm_id": 2595711904,
+        "osm_type": "node",
+        "name": "Paulkulam",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5420426,
+          8.1251901
+        ]
+      },
+      "properties": {
+        "osm_id": 2595711905,
+        "osm_type": "node",
+        "name": "Periya Vilai",
+        "name:ml": "\u0d2a\u0d46\u0d30\u0d3f\u0d2f\u0d35\u0d3f\u0d33",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5403856,
+          8.1464557
+        ]
+      },
+      "properties": {
+        "osm_id": 2595724805,
+        "osm_type": "node",
+        "name": "Azhagappapuram",
+        "name:ml": "\u0d05\u0d34\u0d15\u0d2a\u0d4d\u0d2a\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b85\u0bb4\u0b95\u0baa\u0bcd\u0baa\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q518458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5304411,
+          8.1383108
+        ]
+      },
+      "properties": {
+        "osm_id": 2595727688,
+        "osm_type": "node",
+        "name": "Pottalkulam",
+        "name:ml": "\u0d2a\u0d4a\u0d1f\u0d4d\u0d1f\u0d7d\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0baa\u0bca\u0b9f\u0bcd\u0b9f\u0bb2\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4902728,
+          8.0890456
+        ]
+      },
+      "properties": {
+        "osm_id": 2597277735,
+        "osm_type": "node",
+        "name": "Manakudy",
+        "name:ml": "\u0d2e\u0d23\u0d15\u0d4d\u0d15\u0d41\u0d1f\u0d3f",
+        "name:ta": "\u0bae\u0ba3\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4508919,
+          8.1366476
+        ]
+      },
+      "properties": {
+        "osm_id": 2597277737,
+        "osm_type": "node",
+        "name": "Parakkai",
+        "name:ml": "\u0d2a\u0d31\u0d15\u0d4d\u0d15",
+        "name:ta": "\u0baa\u0bb1\u0b95\u0bcd\u0b95\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4996999,
+          8.1274538
+        ]
+      },
+      "properties": {
+        "osm_id": 2597277738,
+        "osm_type": "node",
+        "name": "Pothayadi",
+        "name:ml": "\u0d2a\u0d4a\u0d24\u0d4d\u0d24\u0d2f\u0d1f\u0d3f",
+        "name:ta": "\u0baa\u0bca\u0ba4\u0bcd\u0ba4\u0bc8\u0baf\u0b9f\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4846034,
+          8.1319568
+        ]
+      },
+      "properties": {
+        "osm_id": 2597277739,
+        "osm_type": "node",
+        "name": "Thamaraikulam",
+        "name:ml": "\u0d24\u0d3e\u0d2e\u0d30\u0d15\u0d4d\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4800787,
+          8.1510264
+        ]
+      },
+      "properties": {
+        "osm_id": 2597277740,
+        "osm_type": "node",
+        "name": "Vazhukamparai",
+        "name:ml": "\u0d35\u0d34\u0d41\u0d15\u0d4d\u0d15\u0d2e\u0d4d\u0d2a\u0d3e\u0d31",
+        "name:ta": "\u0bb5\u0bb4\u0bc1\u0b95\u0bcd\u0b95\u0bae\u0bcd\u0baa\u0bbe\u0bb1\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5208939,
+          8.1003376
+        ]
+      },
+      "properties": {
+        "osm_id": 2603043299,
+        "osm_type": "node",
+        "name": "Agastheeswaram",
+        "name:ml": "\u0d05\u0d17\u0d24\u0d40\u0d36\u0d4d\u0d35\u0d30\u0d02",
+        "name:ta": "\u0b85\u0b95\u0ba4\u0bc0\u0bb8\u0bcd\u0bb5\u0bb0\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q582327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3433571,
+          8.2407077
+        ]
+      },
+      "properties": {
+        "osm_id": 2617279023,
+        "osm_type": "node",
+        "name": "Brammapuram",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5037387,
+          8.2303422
+        ]
+      },
+      "properties": {
+        "osm_id": 3202086153,
+        "osm_type": "node",
+        "name": "Thovalai",
+        "name:ml": "\u0d24\u0d4b\u0d35\u0d3e\u0d33",
+        "name:ta": "\u0ba4\u0bc7\u0bbe\u0bb5\u0bbe\u0bb3\u0bc8",
+        "place": "village",
+        "wikidata": "Q7797085",
+        "wikipedia": "en:Thovalai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3645634,
+          8.1927306
+        ]
+      },
+      "properties": {
+        "osm_id": 3213676857,
+        "osm_type": "node",
+        "name": "Aloor",
+        "name:ml": "\u0d06\u0d33\u0d42\u0d7c",
+        "name:ta": "\u0b86\u0bb3\u0bc2\u0bb0\u0bcd",
+        "place": "village",
+        "wikidata": "Q1749233",
+        "wikipedia": "en:Alur, Tamil Nadu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3590779,
+          8.2077607
+        ]
+      },
+      "properties": {
+        "osm_id": 3213676859,
+        "osm_type": "node",
+        "name": "Paraseri",
+        "name:ml": "\u0d2a\u0d30\u0d36\u0d47\u0d30\u0d3f",
+        "name:ta": "\u0baa\u0bb0\u0b9a\u0bc7\u0bb0\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5218472,
+          8.2506309
+        ]
+      },
+      "properties": {
+        "osm_id": 3421197609,
+        "osm_type": "node",
+        "alt_name": "Aramboly",
+        "name": "Aralvaimozhi",
+        "name:ml": "\u0d06\u0d30\u0d7d\u0d35\u0d3e\u0d2f\u0d4d\u0d2e\u0d4a\u0d34\u0d3f",
+        "name:ta": "\u0b86\u0bb0\u0bb2\u0bcd\u0bb5\u0bbe\u0baf\u0bcd\u0bae\u0bca\u0bb4\u0bbf",
+        "place": "town",
+        "wikidata": "Q585932",
+        "wikipedia": "en:Aralvaimozhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4634342,
+          8.2114645
+        ]
+      },
+      "properties": {
+        "osm_id": 4764535107,
+        "osm_type": "node",
+        "name": "Vellamadam",
+        "name:ml": "\u0d35\u0d46\u0d33\u0d4d\u0d33\u0d2e\u0d1f\u0d02",
+        "name:ta": "\u0bb5\u0bc6\u0bb3\u0bcd\u0bb3\u0bae\u0b9f\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3493826,
+          8.2434889
+        ]
+      },
+      "properties": {
+        "osm_id": 5288311884,
+        "osm_type": "node",
+        "alt_name": "Kumarakoil",
+        "name": "Kumarakovil",
+        "name:ml": "\u0d15\u0d41\u0d2e\u0d3e\u0d30\u0d15\u0d4b\u0d35\u0d3f\u0d7d",
+        "name:ta": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0b95\u0bcb\u0bb5\u0bbf\u0bb2\u0bcd",
+        "place": "village",
+        "wikidata": "Q6443539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4654579,
+          8.1733563
+        ]
+      },
+      "properties": {
+        "osm_id": 5327140871,
+        "osm_type": "node",
+        "addr:postcode": "629704",
+        "name": "Theroor",
+        "name:ml": "\u0d24\u0d47\u0d30\u0d42\u0d7c",
+        "name:ta": "\u0ba4\u0bc7\u0bb0\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5056267,
+          8.1551003
+        ]
+      },
+      "properties": {
+        "osm_id": 5327243396,
+        "osm_type": "node",
+        "name": "Mayiladi",
+        "name:ml": "\u0d2e\u0d2f\u0d3f\u0d32\u0d3e\u0d1f\u0d3f",
+        "name:ta": "\u0bae\u0baf\u0bbf\u0bb2\u0bbe\u0b9f\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3933387,
+          8.1818202
+        ]
+      },
+      "properties": {
+        "osm_id": 5328706509,
+        "osm_type": "node",
+        "name": "Peruvilai",
+        "name:ml": "\u0d2a\u0d46\u0d30\u0d41\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village",
+        "wikidata": "Q7171217",
+        "wikipedia": "en:Peruvilai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5698394,
+          8.1493782
+        ]
+      },
+      "properties": {
+        "osm_id": 5792618379,
+        "osm_type": "node",
+        "name": "Anjugramam",
+        "name:ml": "\u0d05\u0d1e\u0d4d\u0d1a\u0d41\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d02",
+        "name:ta": "\u0b85\u0b9e\u0bcd\u0b9a\u0bc1\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd",
+        "place": "town",
+        "wikidata": "Q582661",
+        "wikipedia": "en:Anjugramam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5569252,
+          8.1308105
+        ]
+      },
+      "properties": {
+        "osm_id": 5792618408,
+        "osm_type": "node",
+        "name": "Vattakkottai",
+        "name:ml": "\u0d35\u0d1f\u0d4d\u0d1f\u0d15\u0d4d\u0d15\u0d4b\u0d1f\u0d4d\u0d1f",
+        "name:ta": "\u0bb5\u0b9f\u0bcd\u0b9f\u0b95\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4896729,
+          8.2486758
+        ]
+      },
+      "properties": {
+        "osm_id": 6834396917,
+        "osm_type": "node",
+        "name": "Chenbagaramanputhur",
+        "name:ml": "\u0d1a\u0d46\u0d2e\u0d4d\u0d2a\u0d15\u0d30\u0d3e\u0d2e\u0d7b\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0b9a\u0bc6\u0ba3\u0bcd\u0baa\u0b95\u0bb0\u0bbe\u0bae\u0ba9\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5992223,
+          8.1475382
+        ]
+      },
+      "properties": {
+        "osm_id": 9160395849,
+        "osm_type": "node",
+        "name": "Kootapuli",
+        "name:ml": "\u0d15\u0d42\u0d1f\u0d4d\u0d1f\u0d2a\u0d4d\u0d2a\u0d41\u0d33\u0d3f",
+        "name:ta": "\u0b95\u0bc2\u0b9f\u0bcd\u0b9f\u0baa\u0bcd\u0baa\u0bc1\u0bb3\u0bbf",
+        "place": "village",
+        "population": "10000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5743073,
+          8.2053367
+        ]
+      },
+      "properties": {
+        "osm_id": 9517217104,
+        "osm_type": "node",
+        "name": "Palavoor",
+        "name:ml": "\u0d2a\u0d34\u0d35\u0d42\u0d7c",
+        "name:ta": "\u0baa\u0bb4\u0bb5\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5797307,
+          8.2325204
+        ]
+      },
+      "properties": {
+        "osm_id": 9517217105,
+        "osm_type": "node",
+        "name": "Avarikulam",
+        "name:ml": "\u0d06\u0d35\u0d30\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0b86\u0bb5\u0bb0\u0bc8\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3626692,
+          8.1590119
+        ]
+      },
+      "properties": {
+        "osm_id": 9666491254,
+        "osm_type": "node",
+        "name": "Santhapuram",
+        "name:ml": "\u0d36\u0d3e\u0d28\u0d4d\u0d24\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b9a\u0bbe\u0ba8\u0bcd\u0ba4\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4669227,
+          8.1066173
+        ]
+      },
+      "properties": {
+        "osm_id": 9666491264,
+        "osm_type": "node",
+        "name": "Puthalam",
+        "name:ml": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d33\u0d02",
+        "name:ta": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bb3\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q2716567",
+        "wikipedia": "en:Puthalam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5246839,
+          8.0829474
+        ]
+      },
+      "properties": {
+        "osm_id": 9666491265,
+        "osm_type": "node",
+        "name": "Kovalam",
+        "name:ml": "\u0d15\u0d4b\u0d35\u0d33\u0d02",
+        "name:ta": "\u0b95\u0bcb\u0bb5\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5840866,
+          8.2246203
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527244,
+        "osm_type": "node",
+        "name": "Puthur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5825846,
+          8.2321647
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527309,
+        "osm_type": "node",
+        "name": "Puthur Colony",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5752246,
+          8.2373676
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527310,
+        "osm_type": "node",
+        "name": "Ambalavanapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.576952,
+          8.229457
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527311,
+        "osm_type": "node",
+        "name": "Sivagnanapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5820803,
+          8.2364863
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527312,
+        "osm_type": "node",
+        "name": "Soundaralingapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5821125,
+          8.2409034
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527313,
+        "osm_type": "node",
+        "name": "Shanmugapuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.582488,
+          8.2448746
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527314,
+        "osm_type": "node",
+        "name": "Puthiyam Puthur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5769949,
+          8.2433668
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527315,
+        "osm_type": "node",
+        "name": "Madanadar Kudieruppu",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5739264,
+          8.2476565
+        ]
+      },
+      "properties": {
+        "osm_id": 9817527316,
+        "osm_type": "node",
+        "name": "Kumarapuram",
+        "name:ml": "\u0d15\u0d41\u0d2e\u0d3e\u0d30\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b95\u0bc1\u0bae\u0bbe\u0bb0\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4630761,
+          8.1491316
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419732,
+        "osm_type": "node",
+        "name": "Kakamoor",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4875593,
+          8.1409325
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419733,
+        "osm_type": "node",
+        "name": "Narayanputhoor",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4882567,
+          8.1382667
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419734,
+        "osm_type": "node",
+        "name": "Puliyankulam",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4684513,
+          8.1402315
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419735,
+        "osm_type": "node",
+        "name": "Manakudy Colony",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4839115,
+          8.174174
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419736,
+        "osm_type": "node",
+        "name": "Athanimarkulam",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4799633,
+          8.1605804
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419737,
+        "osm_type": "node",
+        "name": "Vishnupuram",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4830908,
+          8.1622212
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419739,
+        "osm_type": "node",
+        "name": "Thanumalayanpudur",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4735904,
+          8.1657205
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419740,
+        "osm_type": "node",
+        "name": "Pallavilai",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.476809,
+          8.1659223
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419741,
+        "osm_type": "node",
+        "name": "Nalloor",
+        "name:ml": "\u0d28\u0d32\u0d4d\u0d32\u0d42\u0d7c",
+        "name:ta": "\u0ba8\u0bb2\u0bcd\u0bb2\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.475602,
+          8.1574952
+        ]
+      },
+      "properties": {
+        "osm_id": 9996419742,
+        "osm_type": "node",
+        "name": "Ilayanainarkulam",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4273882,
+          8.1106407
+        ]
+      },
+      "properties": {
+        "osm_id": 10689029061,
+        "osm_type": "node",
+        "name": "Melakrishnanputhur",
+        "name:ml": "\u0d2e\u0d47\u0d32\u0d15\u0d43\u0d37\u0d4d\u0d23\u0d7b\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0bae\u0bc7\u0bb2\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0ba9\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4302053,
+          8.2293092
+        ]
+      },
+      "properties": {
+        "osm_id": 11295272930,
+        "osm_type": "node",
+        "name": "Erachakulam",
+        "name:ml": "\u0d07\u0d31\u0d1a\u0d4d\u0d1a\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0b87\u0bb1\u0b9a\u0bcd\u0b9a\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q116692759",
+        "wikipedia": "en:Erachakulam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4327541,
+          8.2138744
+        ]
+      },
+      "properties": {
+        "osm_id": 11295272931,
+        "osm_type": "node",
+        "name": "Putheri",
+        "name:ml": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d47\u0d30\u0d3f",
+        "name:ta": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0bc7\u0bb0\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.379063,
+          8.1411972
+        ]
+      },
+      "properties": {
+        "osm_id": 11295272932,
+        "osm_type": "node",
+        "name": "Karavilai",
+        "name:ml": "\u0d15\u0d3e\u0d30\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b95\u0bbe\u0bb0\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village",
+        "wikidata": "Q25212543",
+        "wikipedia": "en:Karavilai (Villukuri panchayat)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.389252,
+          8.1206445
+        ]
+      },
+      "properties": {
+        "osm_id": 11295272934,
+        "osm_type": "node",
+        "name": "Eathamozhi",
+        "name:ml": "\u0d08\u0d24\u0d4d\u0d24\u0d3e\u0d2e\u0d4a\u0d34\u0d3f",
+        "name:ta": "\u0b88\u0ba4\u0bcd\u0ba4\u0bbe\u0bae\u0bca\u0bb4\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4065675,
+          8.1061498
+        ]
+      },
+      "properties": {
+        "osm_id": 11295272935,
+        "osm_type": "node",
+        "name": "Pozhikarai",
+        "name:ml": "\u0d2a\u0d4a\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d30",
+        "name:ta": "\u0baa\u0bca\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bb0\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5025715,
+          8.1720247
+        ]
+      },
+      "properties": {
+        "osm_id": 11444308100,
+        "osm_type": "node",
+        "name": "Marungoor",
+        "name:ml": "\u0d2e\u0d30\u0d41\u0d19\u0d4d\u0d15\u0d42\u0d7c",
+        "name:ta": "\u0bae\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4726568,
+          8.2029111
+        ]
+      },
+      "properties": {
+        "osm_id": 11444308101,
+        "osm_type": "node",
+        "name": "Kulasekharanputhoor",
+        "name:ml": "\u0d15\u0d41\u0d32\u0d36\u0d47\u0d16\u0d30\u0d7b\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0b95\u0bc1\u0bb2\u0b9a\u0bc7\u0b95\u0bb0\u0ba9\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3710699,
+          8.1800797
+        ]
+      },
+      "properties": {
+        "osm_id": 11455764811,
+        "osm_type": "node",
+        "name": "Perumselvavilai",
+        "name:ml": "\u0d2a\u0d46\u0d30\u0d41\u0d02\u0d38\u0d46\u0d7d\u0d35\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0bae\u0bcd\u0b9a\u0bc6\u0bb2\u0bcd\u0bb5\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5758747,
+          8.17407
+        ]
+      },
+      "properties": {
+        "osm_id": 11500046843,
+        "osm_type": "node",
+        "name": "Karungulam",
+        "name:ml": "\u0d15\u0d30\u0d41\u0d19\u0d4d\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0b95\u0bb0\u0bc1\u0b99\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4953648,
+          8.1438723
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519357,
+        "osm_type": "node",
+        "name": "Kulasekarapuram",
+        "name:ml": "\u0d15\u0d41\u0d32\u0d36\u0d47\u0d16\u0d30\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b95\u0bc1\u0bb2\u0b9a\u0bc7\u0b95\u0bb0\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village",
+        "wikidata": "Q2234099",
+        "wikipedia": "en:Kulasekarapuram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4786871,
+          8.2063737
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519358,
+        "osm_type": "node",
+        "name": "Kurukkalmadam",
+        "name:ml": "\u0d15\u0d41\u0d30\u0d41\u0d15\u0d4d\u0d15\u0d7e\u0d2e\u0d1f\u0d02",
+        "name:ta": "\u0b95\u0bc1\u0bb0\u0bc1\u0b95\u0bcd\u0b95\u0bb3\u0bcd\u0bae\u0b9f\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.447473,
+          8.2073726
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519359,
+        "osm_type": "node",
+        "name": "Thiruppathisaram",
+        "name:ml": "\u0d24\u0d3f\u0d30\u0d41\u0d2a\u0d4d\u0d2a\u0d24\u0d3f\u0d38\u0d3e\u0d30\u0d02",
+        "name:ta": "\u0ba4\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0ba4\u0bbf\u0b9a\u0bbe\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4811646,
+          8.2278701
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519360,
+        "osm_type": "node",
+        "name": "Madhavalayam",
+        "name:ml": "\u0d2e\u0d3e\u0d27\u0d35\u0d32\u0d3e\u0d2f\u0d02",
+        "name:ta": "\u0bae\u0bbe\u0ba4\u0bb5\u0bb2\u0bbe\u0baf\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.453627,
+          8.2329741
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519361,
+        "osm_type": "node",
+        "name": "Thazhakudy",
+        "name:ml": "\u0d24\u0d3e\u0d34\u0d15\u0d4d\u0d15\u0d41\u0d1f\u0d3f",
+        "name:ta": "\u0ba4\u0bbe\u0bb4\u0b95\u0bcd\u0b95\u0bc1\u0b9f\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4327591,
+          8.2452365
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519362,
+        "osm_type": "node",
+        "name": "Navalkadu",
+        "name:ml": "\u0d28\u0d3e\u0d35\u0d7d\u0d15\u0d3e\u0d1f\u0d4d",
+        "name:ta": "\u0ba8\u0bbe\u0bb5\u0bb2\u0bcd\u0b95\u0bbe\u0b9f\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3453419,
+          8.1667039
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519363,
+        "osm_type": "node",
+        "name": "Saral",
+        "name:ml": "\u0d38\u0d30\u0d7d",
+        "name:ta": "\u0b9a\u0bb0\u0bb2\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3700443,
+          8.1701802
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519364,
+        "osm_type": "node",
+        "name": "Vembanoor",
+        "name:ml": "\u0d35\u0d47\u0d2e\u0d4d\u0d2a\u0d28\u0d42\u0d7c",
+        "name:ta": "\u0bb5\u0bc7\u0bae\u0bcd\u0baa\u0ba9\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3570219,
+          8.1723416
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519365,
+        "osm_type": "node",
+        "name": "Sadayalputhur",
+        "name:ml": "\u0d38\u0d1f\u0d2f\u0d7d\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0b9a\u0b9f\u0bc8\u0baf\u0bb2\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3480728,
+          8.1986474
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519366,
+        "osm_type": "node",
+        "name": "Pulluvilai",
+        "name:ml": "\u0d2a\u0d41\u0d32\u0d4d\u0d32\u0d41\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0baa\u0bc1\u0bb2\u0bcd\u0bb2\u0bc1\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3468387,
+          8.2046873
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519367,
+        "osm_type": "node",
+        "name": "Karankadu",
+        "name:ml": "\u0d15\u0d3e\u0d30\u0d19\u0d4d\u0d19\u0d3e\u0d1f\u0d4d",
+        "name:ta": "\u0b95\u0bbe\u0bb0\u0b99\u0bcd\u0b95\u0bbe\u0b9f\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3468438,
+          8.190878
+        ]
+      },
+      "properties": {
+        "osm_id": 11822519368,
+        "osm_type": "node",
+        "name": "Nanganvilai",
+        "name:ml": "\u0d28\u0d19\u0d4d\u0d15\u0d7b\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0ba8\u0b99\u0bcd\u0b95\u0ba9\u0bcd\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3528437,
+          8.1913852
+        ]
+      },
+      "properties": {
+        "osm_id": 11822543969,
+        "osm_type": "node",
+        "name": "Kattimancode",
+        "name:ml": "\u0d15\u0d1f\u0d4d\u0d1f\u0d3f\u0d2e\u0d3e\u0d19\u0d4d\u0d15\u0d4b\u0d1f\u0d4d",
+        "name:ta": "\u0b95\u0b9f\u0bcd\u0b9f\u0bbf\u0bae\u0bbe\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3518274,
+          8.1818462
+        ]
+      },
+      "properties": {
+        "osm_id": 11822543970,
+        "osm_type": "node",
+        "name": "Koduppaikuzhi",
+        "name:ml": "\u0d15\u0d4a\u0d1f\u0d41\u0d2a\u0d4d\u0d2a\u0d15\u0d4d\u0d15\u0d41\u0d34\u0d3f",
+        "name:ta": "\u0b95\u0bca\u0b9f\u0bc1\u0baa\u0bcd\u0baa\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb4\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3965544,
+          8.1358345
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628421,
+        "osm_type": "node",
+        "name": "Pazhavilai",
+        "name:ml": "\u0d2a\u0d34\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0baa\u0bb4\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village",
+        "wikidata": "Q7156990",
+        "wikipedia": "en:Pazhavilai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4036369,
+          8.1149209
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628423,
+        "osm_type": "node",
+        "name": "Mangavilai",
+        "name:ml": "\u0d2e\u0d19\u0d4d\u0d15\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0bae\u0b99\u0bcd\u0b95\u0bbe\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village",
+        "wikidata": "Q6748861",
+        "wikipedia": "en:Mangavilai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.455862,
+          8.1162067
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628424,
+        "osm_type": "node",
+        "name": "Thengamputhur",
+        "name:ml": "\u0d24\u0d46\u0d19\u0d4d\u0d19\u0d2e\u0d4d\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0ba4\u0bc6\u0b99\u0bcd\u0b95\u0bae\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5013278,
+          8.1851123
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628426,
+        "osm_type": "node",
+        "name": "Rajavoor",
+        "name:ml": "\u0d30\u0d3e\u0d1c\u0d3e\u0d35\u0d42\u0d7c",
+        "name:ta": "\u0bb0\u0bbe\u0b9c\u0bbe\u0bb5\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3999843,
+          8.2005779
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628427,
+        "osm_type": "node",
+        "name": "Kaniyakulam",
+        "name:ml": "\u0d15\u0d23\u0d3f\u0d2f\u0d3e\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0b95\u0ba3\u0bbf\u0baf\u0bbe\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5103531,
+          8.124343
+        ]
+      },
+      "properties": {
+        "osm_id": 11840628428,
+        "osm_type": "node",
+        "name": "Mantharamputhur",
+        "name:ml": "\u0d2e\u0d28\u0d4d\u0d26\u0d3e\u0d30\u0d02\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0bae\u0ba8\u0bcd\u0ba4\u0bbe\u0bb0\u0bae\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5988915,
+          8.1873065
+        ]
+      },
+      "properties": {
+        "osm_id": 12015455482,
+        "osm_type": "node",
+        "name": "Sankanapuram",
+        "name:ml": "\u0d36\u0d19\u0d4d\u0d15\u0d28\u0d3e\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b9a\u0b99\u0bcd\u0b95\u0ba9\u0bbe\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5601551,
+          8.1257248
+        ]
+      },
+      "properties": {
+        "osm_id": 12076854239,
+        "osm_type": "node",
+        "name": "AmanakkanVilai",
+        "name:ml": "\u0d06\u0d2e\u0d23\u0d15\u0d4d\u0d15\u0d7b\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b86\u0bae\u0ba3\u0b95\u0bcd\u0b95\u0ba9\u0bcd\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5846087,
+          8.1453738
+        ]
+      },
+      "properties": {
+        "osm_id": 12076885295,
+        "osm_type": "node",
+        "name": "Kanahappapuram",
+        "name:ml": "\u0d15\u0d23\u0d39\u0d2a\u0d4d\u0d2a\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b95\u0ba3\u0bb9\u0baa\u0bcd\u0baa\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.56791,
+          8.1424856
+        ]
+      },
+      "properties": {
+        "osm_id": 12076896511,
+        "osm_type": "node",
+        "name": "Sri Lakshmipuram",
+        "name:ml": "\u0d36\u0d4d\u0d30\u0d40 \u0d32\u0d15\u0d4d\u0d37\u0d4d\u0d2e\u0d3f\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb8\u0bcd\u0bb0\u0bc0 \u0bb2\u0b95\u0bcd\u200c\u0bb7\u0bcd\u0bae\u0bbf\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5661872,
+          8.1403751
+        ]
+      },
+      "properties": {
+        "osm_id": 12076896512,
+        "osm_type": "node",
+        "name": "Mettukudiyirupu",
+        "name:ml": "\u0d2e\u0d47\u0d1f\u0d4d\u0d1f\u0d41\u0d15\u0d41\u0d1f\u0d3f\u0d2f\u0d3f\u0d30\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+        "name:ta": "\u0bae\u0bc7\u0b9f\u0bcd\u0b9f\u0bc1\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5413125,
+          8.1184592
+        ]
+      },
+      "properties": {
+        "osm_id": 12076918686,
+        "osm_type": "node",
+        "name": "Nari Kulam",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4225951,
+          8.2246879
+        ]
+      },
+      "properties": {
+        "osm_id": 13316606153,
+        "osm_type": "node",
+        "description": "Vishnupuram is a hamlet near Erachakulam in Kanyakumari district",
+        "name": "Vishnupuram",
+        "name:ml": "\u0d35\u0d3f\u0d37\u0d4d\u0d23\u0d41\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb5\u0bbf\u0bb7\u0bcd\u0ba3\u0bc1\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3411489,
+          8.1264004
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991165,
+        "osm_type": "node",
+        "name": "Azhickal",
+        "name:ml": "\u0d05\u0d34\u0d3f\u0d15\u0d4d\u0d15\u0d3e\u0d7d",
+        "name:ta": "\u0b85\u0bb4\u0bbf\u0b95\u0bcd\u0b95\u0bbe\u0bb2\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3491325,
+          8.1351916
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991166,
+        "osm_type": "node",
+        "name": "Alankottai",
+        "name:ml": "\u0d06\u0d32\u0d19\u0d4d\u0d15\u0d4b\u0d1f\u0d4d\u0d1f",
+        "name:ta": "\u0b86\u0bb2\u0b99\u0bcd\u0b95\u0bcb\u0b9f\u0bcd\u0b9f\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3596883,
+          8.153582
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991167,
+        "osm_type": "node",
+        "name": "Kothavilai",
+        "name:ml": "\u0d15\u0d4b\u0d24\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b95\u0bcb\u0ba4\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3774052,
+          8.1604097
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991168,
+        "osm_type": "node",
+        "name": "Pambanvilai",
+        "name:ml": "\u0d2a\u0d3e\u0d2e\u0d4d\u0d2a\u0d7b\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0baa\u0bbe\u0bae\u0bcd\u0baa\u0ba9\u0bcd\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3794777,
+          8.1148345
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991172,
+        "osm_type": "node",
+        "name": "Rajakkamangalam Thurai",
+        "name:ml": "\u0d30\u0d3e\u0d1c\u0d3e\u0d15\u0d4d\u0d15\u0d2e\u0d02\u0d17\u0d32\u0d02 \u0d24\u0d41\u0d31",
+        "name:ta": "\u0b87\u0bb0\u0bbe\u0b9c\u0bbe\u0b95\u0bcd\u0b95\u0bae\u0b99\u0bcd\u0b95\u0bb2\u0bae\u0bcd \u0ba4\u0bc1\u0bb1\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3887422,
+          8.1124094
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991173,
+        "osm_type": "node",
+        "name": "Periyakadu",
+        "name:ml": "\u0d2a\u0d46\u0d30\u0d3f\u0d2f\u0d15\u0d3e\u0d1f\u0d4d",
+        "name:ta": "\u0baa\u0bc6\u0bb0\u0bbf\u0baf\u0b95\u0bbe\u0b9f\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4178279,
+          8.1037422
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991174,
+        "osm_type": "node",
+        "name": "Puthenthurai",
+        "name:ml": "\u0d2a\u0d41\u0d24\u0d4d\u0d24\u0d7b\u0d24\u0d41\u0d31",
+        "name:ta": "\u0baa\u0bc1\u0ba4\u0bcd\u0ba4\u0ba9\u0bcd\u0ba4\u0bc1\u0bb1\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4510371,
+          8.0999349
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991176,
+        "osm_type": "node",
+        "name": "Osaravilai",
+        "name:ml": "\u0d13\u0d36\u0d30\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b93\u0b9a\u0bb1\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4992665,
+          8.1034701
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991177,
+        "osm_type": "node",
+        "name": "South Thamaraikulam",
+        "name:ml": "\u0d24\u0d46\u0d7b\u0d24\u0d3e\u0d2e\u0d30\u0d15\u0d4d\u0d15\u0d41\u0d33\u0d02",
+        "name:ta": "\u0ba4\u0bc6\u0ba9\u0bcd\u0ba4\u0bbe\u0bae\u0bb0\u0bc8\u0b95\u0bcd\u0b95\u0bc1\u0bb3\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5055743,
+          8.0986515
+        ]
+      },
+      "properties": {
+        "osm_id": 13616991178,
+        "osm_type": "node",
+        "name": "Pooviyoor",
+        "name:ml": "\u0d2a\u0d42\u0d35\u0d3f\u0d2f\u0d42\u0d7c",
+        "name:ta": "\u0baa\u0bc2\u0bb5\u0bbf\u0baf\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4093123,
+          8.1331018
+        ]
+      },
+      "properties": {
+        "osm_id": 13624638597,
+        "osm_type": "node",
+        "name": "Athikadai",
+        "name:ml": "\u0d05\u0d24\u0d4d\u0d24\u0d3f\u0d15\u0d4d\u0d15\u0d1f",
+        "name:ta": "\u0b85\u0ba4\u0bcd\u0ba4\u0bbf\u0b95\u0b9f\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4026866,
+          8.1269327
+        ]
+      },
+      "properties": {
+        "osm_id": 13624638598,
+        "osm_type": "node",
+        "name": "Sundapattivilai",
+        "name:ml": "\u0d1a\u0d41\u0d23\u0d4d\u0d1f\u0d2a\u0d1f\u0d4d\u0d1f\u0d3f\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0b9a\u0bc1\u0ba3\u0bcd\u0b9f\u0baa\u0b9f\u0bcd\u0b9f\u0bbf\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4309505,
+          8.1332347
+        ]
+      },
+      "properties": {
+        "osm_id": 13624638599,
+        "osm_type": "node",
+        "name": "Vairavilai",
+        "name:ml": "\u0d35\u0d48\u0d30\u0d35\u0d3f\u0d33",
+        "name:ta": "\u0bb5\u0bc8\u0bb0\u0bbe\u0bb5\u0bbf\u0bb3\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.442985,
+          8.1319124
+        ]
+      },
+      "properties": {
+        "osm_id": 13624638600,
+        "osm_type": "node",
+        "name": "Vandikudiyiruppu",
+        "name:ml": "\u0d35\u0d23\u0d4d\u0d1f\u0d3f\u0d15\u0d4d\u0d15\u0d41\u0d1f\u0d3f\u0d2f\u0d3f\u0d30\u0d41\u0d2a\u0d4d\u0d2a\u0d4d",
+        "name:ta": "\u0bb5\u0ba3\u0bcd\u0b9f\u0bbf\u0b95\u0bc1\u0b9f\u0bbf\u0baf\u0bbf\u0bb0\u0bc1\u0baa\u0bcd\u0baa\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5129912,
+          8.1110801
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671901,
+        "osm_type": "node",
+        "name": "Santhaiyadi",
+        "name:ml": "\u0d1a\u0d28\u0d4d\u0d24\u0d2f\u0d1f\u0d3f",
+        "name:ta": "\u0b9a\u0ba8\u0bcd\u0ba4\u0bc8\u0baf\u0b9f\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5560615,
+          8.1589624
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671902,
+        "osm_type": "node",
+        "name": "Rajakrishnapuram",
+        "name:ml": "\u0d30\u0d3e\u0d1c\u0d15\u0d43\u0d37\u0d4d\u0d23\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb0\u0bbe\u0b9c\u0b95\u0bbf\u0bb0\u0bc1\u0bb7\u0bcd\u0ba3\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5385004,
+          8.1645926
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671903,
+        "osm_type": "node",
+        "name": "Thirumoolanagar",
+        "name:ml": "\u0d24\u0d3f\u0d30\u0d41\u0d2e\u0d42\u0d32\u0d28\u0d17\u0d7c",
+        "name:ta": "\u0ba4\u0bbf\u0bb0\u0bc1\u0bae\u0bc2\u0bb2\u0ba8\u0b95\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4427477,
+          8.2870274
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671910,
+        "osm_type": "node",
+        "name": "Derisanamcope",
+        "name:ml": "\u0d26\u0d7c\u0d36\u0d28\u0d02\u0d15\u0d4b\u0d2a\u0d4d\u0d2a\u0d4d",
+        "name:ta": "\u0ba4\u0bc6\u0bb0\u0bbf\u0b9a\u0ba9\u0bae\u0bcd\u0b95\u0bcb\u0baa\u0bcd\u0baa\u0bc1",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4514626,
+          8.2845193
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671918,
+        "osm_type": "node",
+        "name": "Thellanthi",
+        "name:ml": "\u0d24\u0d46\u0d33\u0d4d\u0d33\u0d3e\u0d28\u0d4d\u0d24\u0d3f",
+        "name:ta": "\u0ba4\u0bc6\u0bb3\u0bcd\u0bb3\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4524644,
+          8.2539862
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671919,
+        "osm_type": "node",
+        "name": "Seethapal",
+        "name:ml": "\u0d38\u0d40\u0d24\u0d2a\u0d4d\u0d2a\u0d3e\u0d7d",
+        "name:ta": "\u0b9a\u0bc0\u0ba4\u0baa\u0bcd\u0baa\u0bbe\u0bb2\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4869896,
+          8.2397336
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671920,
+        "osm_type": "node",
+        "name": "Kannanputhoor",
+        "name:ml": "\u0d15\u0d23\u0d4d\u0d23\u0d7b\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0b95\u0ba3\u0bcd\u0ba3\u0ba9\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4726837,
+          8.2233041
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671921,
+        "osm_type": "node",
+        "name": "Shanmugapuram",
+        "name:ml": "\u0d37\u0d7a\u0d2e\u0d41\u0d16\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0b9a\u0ba3\u0bcd\u0bae\u0bc1\u0b95\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4345882,
+          8.252877
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671922,
+        "osm_type": "node",
+        "name": "Easanthimangalam",
+        "name:ml": "\u0d08\u0d36\u0d3e\u0d28\u0d4d\u0d24\u0d3f\u0d2e\u0d02\u0d17\u0d32\u0d02",
+        "name:ta": "\u0b88\u0b9a\u0bbe\u0ba8\u0bcd\u0ba4\u0bbf\u0bae\u0b99\u0bcd\u0b95\u0bb2\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3826902,
+          8.2002789
+        ]
+      },
+      "properties": {
+        "osm_id": 13624671923,
+        "osm_type": "node",
+        "name": "Chunkankadai",
+        "name:ml": "\u0d1a\u0d41\u0d19\u0d4d\u0d15\u0d3e\u0d7b\u0d15\u0d1f",
+        "name:ta": "\u0b9a\u0bc1\u0b99\u0bcd\u0b95\u0bbe\u0ba9\u0bcd\u0b95\u0b9f\u0bc8",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.485088,
+          8.1873182
+        ]
+      },
+      "properties": {
+        "osm_id": 13786971625,
+        "osm_type": "node",
+        "name": "Sankaranputhur",
+        "name:ml": "\u0d36\u0d19\u0d4d\u0d15\u0d30\u0d7b\u0d2a\u0d41\u0d24\u0d42\u0d7c",
+        "name:ta": "\u0b9a\u0b99\u0bcd\u0b95\u0bb0\u0ba9\u0bcd\u0baa\u0bc1\u0ba4\u0bc2\u0bb0\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4624285,
+          8.1899896
+        ]
+      },
+      "properties": {
+        "osm_id": 13786971626,
+        "osm_type": "node",
+        "name": "Puthugramam",
+        "name:ml": "\u0d2a\u0d41\u0d24\u0d41\u0d17\u0d4d\u0d30\u0d3e\u0d2e\u0d02",
+        "name:ta": "\u0baa\u0bc1\u0ba4\u0bc1\u0b95\u0bbf\u0bb0\u0bbe\u0bae\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4770212,
+          8.1955051
+        ]
+      },
+      "properties": {
+        "osm_id": 13786971627,
+        "osm_type": "node",
+        "name": "Ramapuram",
+        "name:ml": "\u0d30\u0d3e\u0d2e\u0d2a\u0d41\u0d30\u0d02",
+        "name:ta": "\u0bb0\u0bbe\u0bae\u0bbe\u0baa\u0bc1\u0bb0\u0bae\u0bcd",
+        "place": "village"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3512606,
+          8.2944458
+        ]
+      },
+      "properties": {
+        "osm_id": 13786971628,
+        "osm_type": "node",
+        "name": "Perunchilambu",
+        "name:ml": "\u0d2a\u0d46\u0d30\u0d41\u0d1e\u0d4d\u0d1a\u0d3f\u0d32\u0d2e\u0d4d\u0d2a\u0d4d",
+        "name:ta": "\u0baa\u0bc6\u0bb0\u0bc1\u0b9e\u0bcd\u0b9a\u0bbf\u0bb2\u0bae\u0bcd\u0baa\u0bc1",
+        "place": "village"
+      }
+    }
+  ]
+}

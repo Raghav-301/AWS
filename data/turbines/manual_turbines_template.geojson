@@ -1,0 +1,34 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "description": "Manually digitised turbine locations for Muppandal cluster demo. Supplement OSM data by adding points from satellite view at geojson.io.",
+    "instructions": [
+      "Open https://geojson.io",
+      "Navigate to 8.19, 77.47 (Muppandal / Aralvaimozhi Pass)",
+      "Switch to satellite view",
+      "Click on each visible turbine to add a point marker",
+      "For each turbine, add properties: estimated_class (old/mid/modern), estimated_capacity_kw (500/1500/3000)",
+      "Export -> save as data/turbines/manual_turbines.geojson",
+      "Target: 30-50 turbines total (including OSM ones)"
+    ],
+    "source": "Manual digitisation from Google/Bing satellite imagery",
+    "default_assumptions": {
+      "old_turbines": {"capacity_kw": 500, "hub_height_m": 50, "rotor_diameter_m": 40},
+      "mid_turbines": {"capacity_kw": 1500, "hub_height_m": 80, "rotor_diameter_m": 80},
+      "modern_turbines": {"capacity_kw": 3000, "hub_height_m": 120, "rotor_diameter_m": 120}
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [77.47, 8.19]},
+      "properties": {
+        "id": "SAMPLE_1",
+        "estimated_class": "old",
+        "estimated_capacity_kw": 500,
+        "estimated_hub_height_m": 50,
+        "note": "SAMPLE - Replace with real turbine locations from satellite view"
+      }
+    }
+  ]
+}

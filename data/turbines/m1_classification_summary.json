@@ -1,0 +1,14 @@
+{
+  "total_turbines": 1636,
+  "class_breakdown": {
+    "mid": 121,
+    "old": 1508,
+    "modern": 7
+  },
+  "repowering_eligible": 1629,
+  "eligible_percentage": 99.57,
+  "clusters_count": 4,
+  "nn1_mean_m": 163.5,
+  "nn1_median_m": 145.7,
+  "density_500m_mean": 16.37
+}

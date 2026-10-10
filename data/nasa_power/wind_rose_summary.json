@@ -1,0 +1,111 @@
+{
+  "center": {
+    "lat": 8.19,
+    "lon": 77.47
+  },
+  "period": "2023",
+  "total_hours": 8760,
+  "mean_ws_50m": 6.32,
+  "directions": {
+    "N": {
+      "frequency_pct": 0.7,
+      "avg_speed_ms": 4.35,
+      "count": 61
+    },
+    "NNE": {
+      "frequency_pct": 3.0,
+      "avg_speed_ms": 6.31,
+      "count": 260
+    },
+    "NE": {
+      "frequency_pct": 17.6,
+      "avg_speed_ms": 7.57,
+      "count": 1542
+    },
+    "ENE": {
+      "frequency_pct": 9.5,
+      "avg_speed_ms": 6.41,
+      "count": 832
+    },
+    "E": {
+      "frequency_pct": 4.1,
+      "avg_speed_ms": 4.84,
+      "count": 363
+    },
+    "ESE": {
+      "frequency_pct": 2.2,
+      "avg_speed_ms": 3.4,
+      "count": 190
+    },
+    "SE": {
+      "frequency_pct": 1.4,
+      "avg_speed_ms": 3.07,
+      "count": 120
+    },
+    "SSE": {
+      "frequency_pct": 1.8,
+      "avg_speed_ms": 3.25,
+      "count": 156
+    },
+    "S": {
+      "frequency_pct": 2.5,
+      "avg_speed_ms": 3.65,
+      "count": 220
+    },
+    "SSW": {
+      "frequency_pct": 2.7,
+      "avg_speed_ms": 3.58,
+      "count": 233
+    },
+    "SW": {
+      "frequency_pct": 6.7,
+      "avg_speed_ms": 5.16,
+      "count": 586
+    },
+    "WSW": {
+      "frequency_pct": 14.5,
+      "avg_speed_ms": 6.36,
+      "count": 1272
+    },
+    "W": {
+      "frequency_pct": 22.6,
+      "avg_speed_ms": 7.03,
+      "count": 1982
+    },
+    "WNW": {
+      "frequency_pct": 9.7,
+      "avg_speed_ms": 7.16,
+      "count": 852
+    },
+    "NW": {
+      "frequency_pct": 0.8,
+      "avg_speed_ms": 3.68,
+      "count": 69
+    },
+    "NNW": {
+      "frequency_pct": 0.3,
+      "avg_speed_ms": 3.58,
+      "count": 22
+    }
+  },
+  "monthly_avg": {
+    "Jan": 7.41,
+    "Feb": 6.67,
+    "Mar": 5.44,
+    "Apr": 3.88,
+    "May": 6.17,
+    "Jun": 7.92,
+    "Jul": 7.73,
+    "Aug": 7.12,
+    "Sep": 7.19,
+    "Oct": 4.35,
+    "Nov": 4.22,
+    "Dec": 7.66
+  },
+  "hub_height_extrapolation": {
+    "alpha": 0.14,
+    "mean_ws_100m": 6.96,
+    "mean_ws_120m": 7.14,
+    "mean_ws_150m": 7.37
+  }
+}
